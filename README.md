@@ -6,7 +6,7 @@ Designed to follow best practices for organized code and professional UI.
 
 ## Table of Contents
 
--About
+- About
 - Technologies Used
 - Installation
 - Usage
